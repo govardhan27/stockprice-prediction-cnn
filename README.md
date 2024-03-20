@@ -8,9 +8,6 @@ Install dependencies using ``pip``::
 
     pip install -r requirements.txt
 
-If you have CUDA installed, you may want to install [pytorch](https://pytorch.org/) separately. Doing so will
-significantly speed up model training.
-
 Running
 ------------
 
